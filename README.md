@@ -1,5 +1,5 @@
 # ApplePicker_2
 ## OOP Performance Screenshot
-![OOP](OOP.png)
+![OOP](https://github.com/JEN5812/ApplePicker_2/tree/main/OOP.png)
 ## ECS Performance Screenshot
-![ECS](/Users/jenniebutch/Desktop/ECS.png)
+![ECS](https://github.com/JEN5812/ApplePicker_2/tree/main/ECS.png)
